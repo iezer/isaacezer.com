@@ -19,20 +19,29 @@ function App() {
             <p class="style2">I'm a technologist living in New York City.</p>
 
             <p>
-              I work as a consultant at{" "}
+              I'm a senior engineer at{" "}
+              <a href="https://www.spotify.com">Spotify</a>.
+            </p>
+            <p>
+              I love working with different languages and technologies. I'm
+              equally comfortable building front-ends in{" "}
+              <a href="https://reactjs.org">React</a> or{" "}
+              <a href="https://emberjs.com">Ember</a>, data pipelines in{" "}
+              <a href="https://www.scala-lang.org/">Scala</a> (Spotify loves{" "}
+              <a href="https://spotify.github.io/scio/">Scio</a>!), and backend
+              APIs in <a href="https://nodejs.org/en/">Node.js</a> or Java using{" "}
+              <a href="https://spring.io/projects/spring-boot">Spring Boot</a>.
+            </p>
+            <p>
+              I've previously worked as a consultant at{" "}
               <b>
                 <a href="http://201-created.com">201 Created</a>
               </b>{" "}
-              and I love working with companies that are doing interesting
-              things with the web, <br />
-              particularly with{" "}
+              and worked with many great companies in the{" "}
               <b>
                 <a href="http://emberjs.com">Ember</a>
-              </b>
-              .
-            </p>
-            <p>
-              I have a{" "}
+              </b>{" "}
+              community. I have a{" "}
               <b>
                 <a href="https://medium.com/@isaacezer">blog about Ember</a>
               </b>{" "}

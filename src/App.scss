@@ -135,21 +135,19 @@ th {
   z-index: 15;
   font-size: 14px;
   resize: horizontal;
+
+  a {
+    font-weight: bold;
+  }
 }
 
 #box {
   position: absolute;
   top: 100px;
   left: 350px;
-  width: 415px;
+  // width: 415px;
 }
 
 #BioHeader {
   position: relative;
-}
-#BioBody {
-  position: relative;
-  z-index: 15;
-  font-size: 14px;
-  resize: horizontal;
 }
