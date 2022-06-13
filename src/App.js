@@ -56,7 +56,7 @@ function App() {
             <p>
               I built a website{" "}
               <b>
-                <a href="http://splanky.net">splanky.net</a>
+                <a href="http://www.splanky.net">splanky.net</a>
               </b>{" "}
               to show a social graph of New York's jazz scene.
             </p>
