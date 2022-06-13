@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/isaacezer.com/static/css/main.3d423f58.css",
+    "main.js": "/isaacezer.com/static/js/main.65fe6201.js",
+    "static/js/787.e1e8c4a9.chunk.js": "/isaacezer.com/static/js/787.e1e8c4a9.chunk.js",
+    "static/media/Background2.png": "/isaacezer.com/static/media/Background2.78812495f659c5cecfc4.png",
+    "index.html": "/isaacezer.com/index.html",
+    "main.3d423f58.css.map": "/isaacezer.com/static/css/main.3d423f58.css.map",
+    "main.65fe6201.js.map": "/isaacezer.com/static/js/main.65fe6201.js.map",
+    "787.e1e8c4a9.chunk.js.map": "/isaacezer.com/static/js/787.e1e8c4a9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d423f58.css",
+    "static/js/main.65fe6201.js"
+  ]
+}
