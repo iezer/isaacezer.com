@@ -16,7 +16,7 @@ function App() {
         <div id="fineline"></div>
         <div id="box">
           <div id="BioBody">
-            <p class="style2">I'm a technologist living in New York City.</p>
+            <p class="style2">I'm a technologist living London, previously New York City.</p>
 
             <p>
               I'm a senior engineer at{" "}
@@ -56,7 +56,7 @@ function App() {
             <p>
               I built a website{" "}
               <b>
-                <a href="http://www.splanky.net">splanky.net</a>
+                <a href="http://jazz.splanky.net">splanky.net</a>
               </b>{" "}
               to show a social graph of New York's jazz scene.
             </p>
